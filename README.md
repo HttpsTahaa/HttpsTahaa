@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C++,Html,Css Bootstrap,Tailwind,Javascript**
+- 💬 Ask me about **C++,Html,Css Bootstrap,Tailwind**
 
 - 📫 How to reach me **tahaazhar53@gmail.com**
 
